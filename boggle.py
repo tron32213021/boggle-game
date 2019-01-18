@@ -1,4 +1,5 @@
 #!/usr/local/anaconda/bin/python
+#copyright: Zhenye Jiang, tronsupernova@outlook.com
 
 
 from random import random
